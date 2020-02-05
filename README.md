@@ -1,4 +1,4 @@
-# Simulation Study for Mixture Crue and Other Survival Models
+# Simulation Study for Mixture Cure and Other Survival Models
 This repository contains R code to implement a Monte Carlo simulation study evaluating mixture cure and other more standard survival models and their performance when the underlying data generating process has varying cure fraction. More details on the project, including a link to slides from a related research talk, can be found at https://sites.google.com/a/umn.edu/roland-brown/other-projects/cure-rate-models.  
 
 ## Contents
